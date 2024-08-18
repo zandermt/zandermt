@@ -1,12 +1,8 @@
 - 👋 Hi, I’m @zandermt (Trương Minh Tiến)
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+  + Facebook: https://www.facebook.com/zandermt
+  + Discord: @zandermt
+- 👀 I need smol gf fr 
+- 🌱 I’m currently learning Website Development, Front-End Developer
+- 💞️ I’m looking to collaborate on IDK
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a skateboarder
-
-<!---
-zandermt/zandermt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: I'm a Skateboarder
