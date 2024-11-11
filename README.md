@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zander (Trương Minh Tiến) </h1>
 <h3 align="center">A noob developer from Viet Nam</h3>
 
-- 🌱 I’m currently learning Website Development & Automation Test
+- 🌱 I’m currently learning **Website Development & Automation Test**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact **I'm a skateboarder**
 
